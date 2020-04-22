@@ -1,0 +1,25 @@
+{
+  "name": "gulp-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lewis",
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-cache": "^1.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-dom": "^1.0.0",
+    "gulp-each": "^0.5.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "pump": "^3.0.0"
+  }
+}
